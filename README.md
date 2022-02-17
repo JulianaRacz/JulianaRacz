@@ -4,6 +4,7 @@
 - 🤔 Estou a procura de aprender sempre mais.
 - 💎 Me encontre nos links abaixo.
 - ⚡ Um fato engraçado sobre mim é que eu sei fazer Amigurumi, que são bichinhos feito em crochê, legal né?
+- 😉 Varios commits bem simples estão aparecendo por aqui! Mais lembresse estou aprendendo agora então tenha paciencia e empatia!
 
 <div align="center">
   <a href="https://github.com/julianaracz">
