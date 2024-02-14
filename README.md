@@ -1,6 +1,6 @@
 ## Olá mundo! Meu nome é Juliana, mais pode me chamar de Juh!
 
-- 🌱 No momento eu estou aprendendo Analise e Desenvolvimento de Sistemas, pela faculdade Anhanguera.
+- 🌱 No momento eu estou aprendendo Desenvolvimento Front-end, pela DIO.
 - 🤔 Estou a procura de aprender sempre mais.
 - 💎 Me encontre nos links abaixo.
 - ⚡ Um fato engraçado sobre mim é que eu sei fazer Amigurumi, que são bichinhos feito em crochê, legal né?
